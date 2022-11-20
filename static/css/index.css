@@ -1,0 +1,72 @@
+.font-weight-normal {
+    font-weight: 700;
+}
+
+.h1,
+h1 {
+    font-size: 2.0rem;
+}
+
+.p,
+p {
+    margin-top: 0;
+    margin-bottom: 0rem;
+    margin-left: -3rem;
+    size: 28px;
+}
+
+.container {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.talk-to-lawyer-section {
+    background: #b1b6ea;
+    padding: -10px 79px;
+    margin-left: 6px;
+    margin-right: 38px;
+}
+
+
+
+.heading{
+
+    color:#3D5AFE;
+    
+
+}
+
+  .line1{
+    color:#000;
+    font-size:12px;
+
+  }
+   .line2{
+    color:#000;
+    font-size:12px;
+    
+  }
+   .line3{
+    color:#000;
+    font-size:12px;
+    
+  }
+
+  .cards{
+
+    transition: all 0.2s ease;
+    cursor: pointer;
+    
+  }
+
+
+    
+.cards:hover{
+
+    box-shadow: 5px 6px 6px 2px #e9ecef;
+    transform: scale(1.1);
+}
+
+
+

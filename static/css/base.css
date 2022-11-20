@@ -1,0 +1,17 @@
+.bg-dark {
+  background-color: #2b5878 !important
+}
+
+.dropdown:hover .dropdown-menu {
+  display: block;
+  margin-top: 0;
+
+}
+
+.grid-divider {
+  overflow-x: hidden;
+  position: relative;
+}
+
+
+
