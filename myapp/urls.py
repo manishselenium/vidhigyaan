@@ -1,0 +1,15 @@
+from operator import concat
+from django.contrib import admin
+from django.urls import path
+from myapp import views
+
+
+urlpatterns = [
+    path('', views.index, name='myapp'),
+    path('getlawyer', views.getlawyer, name='getlawyer'),
+    path('about', views.about, name='About'),
+    path('rowhouse', views.rowhouse, name='rowhouse'),
+    path('services', views.services, name='services'),
+    path('contact', views.contact, name='contact'),
+    
+]
